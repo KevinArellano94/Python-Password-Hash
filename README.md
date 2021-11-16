@@ -70,7 +70,6 @@ After the script is finished you should have in your clipboard the following str
 ```
 5842211db0f242d61a5ed09ffb9ffce51e15bc4eed62a0a5d85c3cb11ef01343a6433fb3a8a649d57e488df0c087db2079a0ddb031346162661a0427d37a1b38
 ```
-
 ## Running the tests
 
 Simply run the "main.py" file in terminal
@@ -79,20 +78,13 @@ Simply run the "main.py" file in terminal
 
 *Future update*
 
-## Built With
-
-  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-    for the Code of Conduct
-  - [Creative Commons](https://creativecommons.org/) - Used to choose
-    the license
-
 ## Contributing
 
-    Feel free to contribute
+Feel free to contribute
 
 ## Versioning
 
-    For the versions available, see the [tags on thisrepository](https://github.com/KevinArellano94/a-good-readme-template/tags).
+For the versions available, see the [tags on thisrepository](https://github.com/KevinArellano94/a-good-readme-template/tags).
 
 ## Authors
 
@@ -104,7 +96,7 @@ who participated in this project.
 
 ## License
 
-    This project is licensed under the [MIT License](LICENSE.md)
+This project is licensed under the [MIT License](LICENSE.md)
 
 ## Acknowledgments
 
