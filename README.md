@@ -7,9 +7,10 @@ Simple script that hashes your string in terminal two-fold and saves it in your 
 These instructions will guide you in creating the project, getting it up and running on your local machine'a virtual environment for development and testing purposes.
 
 Folder structure:
-    ```PowerShell
-    ~python\{ Project Name }
-    ```
+
+```PowerShell
+~python\{ Project Name }
+```
 
 Future updates:
 
@@ -24,16 +25,18 @@ An installation of Python ( version 3.10.0 ) and PIP ( version 21.2.3 )
 Assuming you are inside the project folder, which we will call "\Password Hash", open the Windows Terminal Preview ( or Powershell ).
 
 Create venv and activate it
-```python
-py -m venv venv
-.\venv\Scripts\Activate.ps1
+```PowerShell
+py -m venv venv; .\venv\Scripts\Activate.ps1
 ```
 Install dependencies
 
+```PowerShell
     pip install hashlib; pip install getpass; pip install pyperclip;
+```
 
 Create file in "python\Password Hash" called "main.py" and add following code
 
+```Python
     import hashlib
     import getpass
     import pyperclip
@@ -47,6 +50,7 @@ Create file in "python\Password Hash" called "main.py" and add following code
 
     if __name__ == "__main__":
         main()
+```
 
 Test script in terminal
 
